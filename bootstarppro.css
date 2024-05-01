@@ -1,0 +1,137 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+#header .nav-link{
+    font-size: 18px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#header   {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+#slider img{
+    height: 800px;
+}
+#features .col-4 .card{
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.165);
+}
+#features{
+    margin-top: 40px;
+}
+#features p{
+    font-size: 1px;
+}
+#about{
+    background-color: #EFF2F9;
+    padding: 80px;
+    margin: 100px 0 100px 0;
+}
+#about .hh{
+    color: blue;
+    font-size: 35px;
+    font-weight: bold;
+}
+#about .div1{
+    margin-top: 100px;
+    text-align: center;
+}
+#about span{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+#about .div2{
+    text-align: center;
+    margin-top: 20px;
+}
+#about p{
+    font-size: 15px;
+}
+#services span{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+#services h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#services .card{
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.165);
+} 
+#team{
+    margin: 100px 0 100px 0;
+}
+#team .container{
+    margin-top: 100px;
+}
+#team span{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+#team h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#team p{
+    font-size: 15px;
+}
+#team ul{
+    list-style: none;
+}
+#team ul li{
+    display: inline;
+    text-align: center;
+}
+#team ul img{
+    width: 50px;
+}
+#team a{
+    text-decoration: none;
+}
+#footer{
+    background-color: #EFF2F9;
+    padding: 80px;
+}
+#footer p{
+    font-size: 15px;
+}
+#footer h1{
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+#footer ul li span{
+    font-size: 15ps;
+    color: grey;
+}
+#footer ul li {
+    font-size: 15px;
+    line-height: 30px;
+}
+#footer  .footer-img img{
+    width: 50px;
+}
+#footer .footer-img ul{
+    list-style: none;
+}
+#footer .footer-img ul li{
+    display: inline;
+}
+#footer .template{
+    text-align: right;
+}
+#footer .spn{
+    color: grey;
+    font-size: 15px;
+}
+#footer a{
+    text-decoration: none;
+}
+#footer ul li span:hover{
+    color:black
+}
